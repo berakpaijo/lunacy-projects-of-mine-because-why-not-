@@ -25,6 +25,8 @@ requested by revz a friend of mine
 credit to stevecharge on devianart
 ![image](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/blob/main/results/credit%20to%20stevecharge%20on%20devianart.png)
 
+![image](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/blob/main/results/rei%20with%20longinus%20spear.png)
+
 ## Thanks
 
 thanks for your concern and time wasting just to go and have a look at my stupid idiotic lunacy project. And yes, everything that has "--wallpaper" in it's name is in fact a wallpaper that I use or used.
