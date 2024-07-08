@@ -22,6 +22,9 @@ Everything that is exported will be put inside the directory [results](https://g
 requested by revz a friend of mine
 ![image](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/blob/main/results/the_wallpaper_my_friend_requested.png)
 
+credit to stevecharge on devianart
+![image](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/blob/main/results/credit%20to%20stevecharge%20on%20devianart.png)
+
 ## Thanks
 
 thanks for your concern and time wasting just to go and have a look at my stupid idiotic lunacy project. And yes, everything that has "--wallpaper" in it's name is in fact a wallpaper that I use or used.
