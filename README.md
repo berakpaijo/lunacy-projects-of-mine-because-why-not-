@@ -16,6 +16,12 @@ after that, you can have a full tour of my lunacy projects! Which sounds stupid 
 
 Everything that is exported will be put inside the directory [results](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/tree/main/results). So, if you ever wanted to take some images you can go inside it and you know, "steal" some of my creations which btw I also use some free assets lmao. And PLEASE always put them inside the directory [results](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/tree/main/results) if you ever had to change this repo for some magical reason...
 
+
+![image](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/blob/main/results/cool_bg_final.png)
+
+requested by revz a friend of mine
+![image](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/blob/main/results/the_wallpaper_my_friend_requested.png)
+
 ## Thanks
 
 thanks for your concern and time wasting just to go and have a look at my stupid idiotic lunacy project. And yes, everything that has "--wallpaper" in it's name is in fact a wallpaper that I use or used.
