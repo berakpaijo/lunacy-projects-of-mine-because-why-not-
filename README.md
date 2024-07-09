@@ -32,6 +32,9 @@ credit to stevecharge on devianart
 
 ![image](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/blob/main/results/windog%20because%20I%20hate%20it.png)
 
+credit to Yuki-Neh on whatever you're on
+![image](https://github.com/berakpaijo/lunacy-projects-of-mine-because-why-not-/blob/main/results/nih%20reqan%20lu%20framuba%20wkwkwkwk.png)
+
 ## Thanks
 
 thanks for your concern and time wasting just to go and have a look at my stupid idiotic lunacy project. And yes, everything that has "--wallpaper" in it's name is in fact a wallpaper that I use or used.
