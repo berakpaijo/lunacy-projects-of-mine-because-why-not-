@@ -43,3 +43,7 @@ credit to Yuki-Neh on whatever you're on
 ## Thanks
 
 thanks for your concern and time wasting just to go and have a look at my stupid idiotic lunacy project. And yes, everything that has "--wallpaper" in it's name is in fact a wallpaper that I use or used.
+
+## Author's note
+
+For those who's asking "where is the rei ayanami with longinus .free file?" Well, to asnwer that, I have lost it... You see, I make this entire repo with nixos and I don't feel like it to use nixos for my entire life. So uh... I uninstalled and now I'm using fedora, which btw I feel better with it's environment. And since I uninstalled my nixos, that means I also replaced it's formal partition with fedora. Yes, that is how I lost it, I FORMATTED WITHOUT THINKING TO BACKUP IT. And it's not only who is surprised by the fact that there's file missing, but it's also me. AND IT'S RIGHT THE TIME I AM WRITING THIS. This sounds stupid, VERY stupid. But believe me, IT HAS HAPPENED and there's nothing I can do... or maybe I recreate it but with fedora this time. To whoever read this, please don't be mad :'(
