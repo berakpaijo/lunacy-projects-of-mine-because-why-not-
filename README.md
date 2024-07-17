@@ -10,6 +10,11 @@ You can go to the official [lunacy website](https://icons8.com/lunacy). Or if yo
 ```
 $  flatpak install lunacy
 ```
+Or with [snapd](https://snapcraft.io/)
+```
+$  snap install lunacy
+```
+
 after that, you can have a full tour of my lunacy projects! Which sounds stupid but who cares.
 
 ## Results
